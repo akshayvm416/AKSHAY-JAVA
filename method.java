@@ -13,6 +13,11 @@ class Computer
        return "nothing";   
 
    }
+
+public int add(int i, int j) {
+    // TODO Auto-generated method stub
+    throw new UnsupportedOperationException("Unimplemented method 'add'");
+}
 }
 
 public class method {
